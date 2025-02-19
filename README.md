@@ -1,4 +1,4 @@
-# Pr-ctica-2-inf-121
+mi# Pr-ctica-2-inf-121
 Codigo de la clases Linea en Java:
 package prac;
 import javax.swing.*;
